@@ -1,4 +1,4 @@
-# Laravel 5 Repositories with Laravel Modules Support
+# Laravel 5 Repositories with Laravel Modules Support and facilities
 
 Laravel 5 Repositories is used to abstract the data layer, making our application more flexible to maintain.
 
